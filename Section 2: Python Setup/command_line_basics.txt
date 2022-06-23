@@ -1,0 +1,7 @@
+#Command line basics
+
+To check the current working directory: pwd
+Files and folders at current directory: ls
+To go to a particular directory: cd name
+To clear the terminal: clear
+To go up a directory: cd ..
