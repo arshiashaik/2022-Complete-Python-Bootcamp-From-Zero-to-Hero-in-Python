@@ -1,0 +1,16 @@
+# Running a .py file from the terminal
+C:Users\Arshia\Desktop>python filename.py
+hello world
+
+# Running python code directly
+C:Users\Arshia\Desktop>python
+>>> print("Hello World")
+Hello World
+>>> quit()
+
+
+C:Users\Arshia\Desktop>
+
+
+# Jupyter Notebook
+anaconda -> notebook -> help -> keyboard shortcuts
